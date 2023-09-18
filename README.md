@@ -1,4 +1,4 @@
-# iothnicapp
+# iothincapp
 
 A new Flutter project.
 
